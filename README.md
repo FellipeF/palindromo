@@ -1,4 +1,4 @@
-# palindromo
+# Verificador de Palindromos
 Verifica se o número inserido é palíndromo ou não.
 
 Um número palíndromo é aquele que lido de trás para frente é o mesmo que lido de maneira normal.
